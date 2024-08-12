@@ -3,8 +3,8 @@ Welcome to my GitHub repository, where I showcase a collection of data analysis 
 These projects demonstrate my skills in data cleaning, exploration, visualization, and modeling, using various tools and techniques.
 
 **About Me**
-I'm a passionate Data Analyst with a background in bacheclor of Science. I have experience working with large datasets, 
-deriving actionable insights, and presenting findings in a clear and impactful way. My goal is to turn raw data into meaningful narratives that drive decision-making.
+I'm a passionate Data Analyst with experience working with large datasets, deriving actionable insights, 
+and presenting findings in a clear and impactful way. My goal is to turn raw data into meaningful narratives that drive decision-making.
 
 Skills and Tools
 Programming Languages: Python, SQL
